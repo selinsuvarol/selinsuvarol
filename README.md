@@ -3,11 +3,25 @@
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selinsuvarol@gmail.com)
 [![](https://img.shields.io/badge/-Behance-blueviolet?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/selinsuvarol)
 
-## :octocat: ʜᴇʏ ɪ'ᴍ ꜱᴇʟɪɴ, ᴀ ꜰʀᴏɴᴛᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ & ᴜx/ᴜɪ ᴅᴇꜱɪɢɴᴇʀ ᴡɪᴛʜ ᴀ <ins>ᴠɪꜱᴜᴀʟ ᴀʀᴛꜱ</ins> ʙᴀᴄᴋɢʀᴏᴜɴᴅ. 
+<h2>👋 Hi, I'm Selin!</h2>
+As a creative junior frontend developer with a background in visual arts and education in marketing, I'm passionate about creating efficient and user-friendly UIs. 🎨💻
 
-## :arrow_right: ᴀʙᴏᴜᴛ ᴍᴇ
+<h3>🚀 My Journey So Far </h3>
+My journey into coding started when I took a UX UI class during my master's degree, which sparked my interest in this field. During my master's program, I honed my design skills using Figma and worked on several detailed projects.
 
-ᴛʜɪɴɢꜱ ɪ'ᴍ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ
+I got accepted into a NY/USA-based low-acceptance rate, intensive bootcamp for 6 months and now, I have experience with React, NEXT.js, JavaScript, HTML, CSS, TailwindCSS, Bootstrap, Material UI and GitHub. 🚀
+
+<h3> 🤝 Collaboration and Teamwork </h3>
+I have collaborated on multiple group projects, including an e-commerce site with reusable components and a responsive movie database created with Vanilla JS. In addition to my technical skills, I'm an experienced team player, having worked with over 100 people while at Apple. 🤝
+
+<h3>📝 Graduation Project/Thesis </h3>
+I then wrote my graduation project/thesis on a comparative analysis of Tailwind and Bootstrap, and ever since, I've been hooked on creating beautiful and responsive designs using the latest technologies. 📝
+
+<h3>🎧 Hobbies and Interests</h3>
+Outside of work, I'm a techno enthusiast and love to attend concerts and festivals. In my free time, I'm also an avid concert photographer, capturing the energy and excitement of live performances. 🎧📸
+
+<h3>🤝 Let's Connect!</h3>
+I believe my artistic background and passion for technology make me a unique and valuable addition to any team. Let's connect and see how we can create something unique together. 🤝
 
 
 ## :pencil2: ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ
